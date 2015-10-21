@@ -1,6 +1,5 @@
 var cheerio = require("cheerio");
 var request = require("request");
-var mongodb = require('mongodb');
 
 for (i = 1 ; i <= 272; i++){
 	
